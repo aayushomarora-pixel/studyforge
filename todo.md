@@ -16,5 +16,6 @@
 - [x] Add optional review reminder preference pathway (in-app toggle persisted for future scheduled notifications)
 - [x] Add Vitest coverage for scheduling logic and existing auth procedure
 - [x] Run type checks, tests, and visual verification at desktop width
-- [ ] Save final checkpoint and prepare delivery notes
+- [x] Save final checkpoint and prepare delivery notes
 - [x] Add per-question quiz feedback that marks selected answers correct or incorrect and reveals the correct option before advancing
+- [x] Prepare concise delivery notes covering implemented features, testing status, known limitations, and basic usage instructions
